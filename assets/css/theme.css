@@ -1,0 +1,18 @@
+@font-face {
+    font-family: myFont;
+    src: url("../fonts/ABEAKRG.TTF");
+}
+body {
+	margin:0;
+	padding:0;
+	margin-top:0;
+	margin-left:0;
+	background:url("../images/fondo.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: myFont;
+}
+.titulo {  }
+.modal { position:absolute;width:200px;height:100px;z-index:999;background:#fff;margin:auto;text-align:center;display:none }

@@ -1,0 +1,31 @@
+60700001295984620
+604000020402
+
+
+
+card: 607000012960
+key: 4499
+OCUPADO
+
+card: 607000012961
+key: 0605
+OCUPADO
+
+card: 607000012962
+key: 6806
+PCUPADO
+
+X - dejar campo de recarga con focus
+- revisar carga de fútbol
+X - sacar apuesta fútbol cuando se cargan otros deportes
+X - cambiar texto pines
+X - quitar captcha
+
+
+pozos, juego, resultado, mis apuestas (cubicar correctamente)
+
+
+
+
+
+
